@@ -17,7 +17,7 @@
 
 ### Log Entry List by Owner
 
-![ListbyOwner](./assets/04_logListbyOwner.png)
+![ListbyOwner](./assets/04_logListbyOwnerSS.png)
 
 ### Log Entry List by Log ID
 
